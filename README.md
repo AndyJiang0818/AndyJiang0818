@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-**I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applications. 
+I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applications. 
 
 - 🔭 I’m currently working on my capstone project, which is a website that allows the tenants to pay rent and submit repair requests, as well as let the landlords post the rent and handle the requests. 
 - 🌱 I’m currently learning more front-end tools. 
