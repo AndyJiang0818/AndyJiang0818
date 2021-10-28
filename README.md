@@ -8,4 +8,4 @@ I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applicati
 - 🌱 I’m currently learning more front-end tools. 
 - 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
 - 📫 How to reach me: AndyJobs0818@gmail.com. 
-- ⚡ Interests: Badminton, Cycling, League of Legends. 
+- ⚡ Interests: Badminton, Cycling, and League of Legends. 
