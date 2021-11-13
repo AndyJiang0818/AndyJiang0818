@@ -1,4 +1,4 @@
-![nyc](https://user-images.githubusercontent.com/58491408/139173454-491b1e04-1065-41b7-871c-c66afb2cf394.jpg)
+![https://andyjiang0818.github.io/](https://user-images.githubusercontent.com/58491408/139173454-491b1e04-1065-41b7-871c-c66afb2cf394.jpg)
 
 ### Hi there :sun_with_face:
 
@@ -8,4 +8,4 @@ I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applicati
 - 🌱 I’m currently learning more front-end tools. 
 - 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
 - 📫 How to reach me: AndyJobs0818@gmail.com. 
-- ⚡ Interests: Badminton, Cycling, and League of Legends. 
+- ⚡ Interests: Badminton :badminton:, Cycling :bike:, and League of Legends :video_game:. 
