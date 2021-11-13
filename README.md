@@ -12,16 +12,16 @@ I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applicati
 
 ## :briefcase: Skills
 ### :keyboard: Languages
-:computer: HTML5, CSS3, JavaScript, Java, C++, Python
+#### :computer: HTML5, CSS3, JavaScript, Java, C++, Python 
 
 ### :hammer_and_wrench: Frameworks & Libraries
-:books: Spring, Spring Boot, Bootstrap
+#### :books: Bootstrap, Spring, Spring Boot
 
 ### :link: Databases
-:floppy_disk: SQL, PostgreSQL, MySQL, MongoDB
+#### :floppy_disk: SQL, PostgreSQL, MySQL, MongoDB
 
 ### :gear: Techniques
-:card_index_dividers: Git/GitHub, Figma, Microsoft Office 365, GCP
+#### :card_index_dividers: Git/GitHub, Figma, Microsoft Office 365, GCP
 
 ### :desktop_computer: Systems
-:file_cabinet: Windows 10, Windows 11, Ubuntu/Linux
+#### :file_cabinet: Windows 10, Windows 11, Ubuntu/Linux
