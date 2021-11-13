@@ -1,6 +1,6 @@
 ![nyc](https://user-images.githubusercontent.com/58491408/139173454-491b1e04-1065-41b7-871c-c66afb2cf394.jpg)
 
-### Hi there 👋
+### Hi there :sun_with_face:
 
 I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applications. 
 
