@@ -7,7 +7,7 @@ I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applicati
 - 🔭 I’m currently working on my capstone project, which is a website that allows the tenants to pay rent and submit repair requests, as well as let the landlords post the rent and handle the requests. [Check it out](https://github.com/Alan-Y62/Capstone_proj).
 - 🌱 I’m currently learning more front-end tools. 
 - 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
-- 📫 How to reach me: AndyJobs0818@gmail.com. 
+- 📫 How to reach me: AndyJobs0818@gmail.com, [LinkedIn](https://www.linkedin.com/in/xihao-andy-jiang/). 
 - ⚡ Interests: Badminton :badminton:, Cycling :bike:, and League of Legends :video_game:. 
 
 ## :briefcase: Skills
