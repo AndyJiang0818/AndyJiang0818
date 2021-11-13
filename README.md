@@ -11,17 +11,17 @@ I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applicati
 - ⚡ Interests: Badminton :badminton:, Cycling :bike:, and League of Legends :video_game:. 
 
 ## :briefcase: Skills
-### :keyboard: Languages
-#### :computer: HTML5, CSS3, JavaScript, Java, C++, Python 
+### :one: :keyboard: Languages
+#### - :computer: HTML5, CSS3, JavaScript, Java, C++, Python 
 
-### :hammer_and_wrench: Frameworks & Libraries
-#### :books: Bootstrap, Spring, Spring Boot
+### :two: :hammer_and_wrench: Frameworks & Libraries
+#### - :books: Bootstrap, Spring, Spring Boot
 
-### :link: Databases
-#### :floppy_disk: SQL, PostgreSQL, MySQL, MongoDB
+### :three: :link: Databases
+#### - :floppy_disk: SQL, PostgreSQL, MySQL, MongoDB
 
-### :gear: Techniques
-#### :card_index_dividers: Git/GitHub, Figma, Microsoft Office 365, GCP
+### :four: :gear: Techniques
+#### - :card_index_dividers: Git/GitHub, Figma, Microsoft Office 365, GCP
 
-### :desktop_computer: Systems
-#### :file_cabinet: Windows 10, Windows 11, Ubuntu/Linux
+### :five: :desktop_computer: Systems
+#### - :file_cabinet: Windows 10, Windows 11, Ubuntu/Linux
