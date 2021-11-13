@@ -9,3 +9,19 @@ I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applicati
 - 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
 - 📫 How to reach me: AndyJobs0818@gmail.com. 
 - ⚡ Interests: Badminton :badminton:, Cycling :bike:, and League of Legends :video_game:. 
+
+## :briefcase: Skills
+### :keyboard: Languages
+:computer: HTML5, CSS3, JavaScript, Java, C++, Python
+
+### :hammer_and_wrench: Frameworks & Libraries
+:books: Spring, Spring Boot, Bootstrap
+
+### :link: Databases
+:floppy_disk: SQL, PostgreSQL, MySQL, MongoDB
+
+### :gear: Techniques
+:card_index_dividers: Git/GitHub, Figma, Microsoft Office 365, GCP
+
+### :desktop_computer: Systems
+:file_cabinet: Windows 10, Windows 11, Ubuntu/Linux
