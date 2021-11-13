@@ -1,4 +1,4 @@
-![https://andyjiang0818.github.io/](https://user-images.githubusercontent.com/58491408/139173454-491b1e04-1065-41b7-871c-c66afb2cf394.jpg)(https://andyjiang0818.github.io/)
+![https://andyjiang0818.github.io/](https://user-images.githubusercontent.com/58491408/139173454-491b1e04-1065-41b7-871c-c66afb2cf394.jpg)
 
 ### Hi there :sun_with_face:
 
