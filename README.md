@@ -4,18 +4,19 @@
 
 I'm Xihao (Andy) Jiang, who is interested in creating fun websites and applications. 
 
-- 🔭 I’m currently working on my capstone project, which is a website that allows the tenants to pay rent and submit repair requests, as well as let the landlords post the rent and handle the requests. [Check it out](https://github.com/Alan-Y62/Capstone_proj).
-- 🌱 I’m currently learning more front-end tools. 
+- 🗺️ I'm a recent graduate from CUNY Hunter College with a Bachelor's Degree in Computer Science. 
+- 🔭 Here is my capstone project, which is a website that connects the tenants and landlords; letting the tenants sumbit and edit a repair request; letting the landlords handle the repair requests, as well as post and edit announcements. [Check it out](https://dailytenant.herokuapp.com/).
+- 🌱 I’m currently learning more full-stack tools. 
 - 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
 - 📫 How to reach me: AndyJobs0818@gmail.com, [LinkedIn](https://www.linkedin.com/in/xihao-andy-jiang/). 
 - ⚡ Interests: Badminton :badminton:, Cycling :bike:, and League of Legends :video_game:. 
 
 ## :briefcase: Skills
 ### :one: :keyboard: Languages
-#### - :computer: HTML5, CSS3, JavaScript, Java, C++, Python 
+#### - :computer: HTML5, CSS3, JavaScript, Java, Python 
 
 ### :two: :hammer_and_wrench: Frameworks & Libraries
-#### - :books: Bootstrap, Spring, Spring Boot
+#### - :books: Bootstrap, jQuery, Node.js, Express.js, React.js, React-Redux
 
 ### :three: :link: Databases
 #### - :floppy_disk: SQL, PostgreSQL, MySQL, MongoDB
