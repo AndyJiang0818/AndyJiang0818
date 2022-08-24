@@ -10,16 +10,16 @@ I'm Xihao (Andy) Jiang, who is interested in frontend, backend, and full-stack d
 
 ## :briefcase: Skills
 ### :one: :keyboard: Languages
-#### - :computer: Java, HTML5/CSS3, JavaScript
+#### - :computer: Java, HTML5/CSS3, JavaScript, TypeScript
 
 ### :two: :hammer_and_wrench: Frameworks & Libraries
-#### - :books: Spring, Spring Boot, Bootstrap, jQuery, Node, React, Redux
+#### - :books: Spring, Spring Boot, Sanity, Bootstrap, Tailwind, jQuery, Node, React, Redux, Next
 
 ### :three: :link: Databases
 #### - :floppy_disk: MySQL, PostgreSQL, MongoDB
 
 ### :four: :gear: Development
-#### - :card_index_dividers: Maven, JUnit, Docker, Git/GitHub, AWS, IntelliJ, VS Code
+#### - :card_index_dividers: Maven, Docker, Kubernetes, Git/GitHub, AWS, GCP, Heroku, Vercel IntelliJ, VS Code, Ubuntu/Linux, Agile/Scrum
 
 ### :five: :desktop_computer: Operating Systems
 #### - :file_cabinet: Windows 10, Windows 11, Ubuntu/Linux
