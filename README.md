@@ -2,24 +2,24 @@
 
 ### Hi there :sun_with_face:
 
-I'm Xihao (Andy) Jiang, who is interested in frontend, backend, and full-stack development. 
+I'm Xihao (Andy) Jiang, who is interested in IT, HR, and Marketing. 
 
 - 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
 - 📫 How to reach me: AndyJobs0818@gmail.com, [LinkedIn](https://www.linkedin.com/in/xihao-andy-jiang/). 
 - ⚡ Interests: Badminton :badminton:, Cycling :bike:, and League of Legends :video_game:. 
 
 ## :briefcase: Skills
-### :one: :keyboard: Languages
-#### - :computer: Java, HTML5/CSS3, JavaScript, TypeScript
+### :one: :keyboard: IT
+#### - :computer: Troubleshooting, TCP/IP, PowerShell, DNS, Windows 10/11, Ubuntu/Linux, Android, AWS
 
-### :two: :hammer_and_wrench: Frameworks & Libraries
-#### - :books: Spring, Spring Boot, Sanity, Bootstrap, Tailwind, jQuery, Node, React, Redux, Next
+### :two: :hammer_and_wrench: Programming
+#### - :books: Java (Spring Boot), JavaScript (React, Node, Express), HTML5/CSS3, REST APIs, MySQL, MongoDB
 
-### :three: :link: Databases
-#### - :floppy_disk: MySQL, PostgreSQL, MongoDB
+### :three: :link: Soft Skills
+#### - :floppy_disk: Customer Service, Self-learning, Fast-learning, Adaptability, Teamwork, Project Management
 
-### :four: :gear: Development
-#### - :card_index_dividers: Maven, Docker, Kubernetes, Git/GitHub, AWS, GCP, Heroku, Vercel IntelliJ, VS Code, Ubuntu/Linux, Agile/Scrum
+### :four: :gear: Other Skills
+#### - :card_index_dividers: Git/GitHub, Microsoft Suite, Google Workspace, Google Analytics, Google Search Console, Canva, HubSpot
 
-### :five: :desktop_computer: Operating Systems
-#### - :file_cabinet: Windows 10, Windows 11, Ubuntu/Linux
+### :five: :desktop_computer: Spoken Languages
+#### - :file_cabinet: Mandarin (Native), English (Proficient), Cantonese (Intermediate)
