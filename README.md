@@ -2,7 +2,7 @@
 
 ### Hi there :sun_with_face:
 
-I'm Xihao (Andy) Jiang, who is interested in IT, HR, and Marketing. 
+I'm Xihao (Andy) Jiang, who is interested in CS, IT, HR, and Marketing. 
 
 - 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
 - 📫 How to reach me: AndyJobs0818@gmail.com, [LinkedIn](https://www.linkedin.com/in/xihao-andy-jiang/). 
