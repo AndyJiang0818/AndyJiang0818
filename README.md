@@ -4,7 +4,7 @@
 
 I'm Xihao (Andy) Jiang, who is interested in CS, IT, HR, and Marketing. 
 
-- 💬 Want to know more about me? [Check out my portfolio](https://andyjiang0818.github.io/).
+- 💬 Want to know more about me? [Portfolio](https://andyjiang0818.github.io/), [Blog](https://unremovable-mask-man.blogspot.com/).
 - 📫 How to reach me: AndyJobs0818@gmail.com, [LinkedIn](https://www.linkedin.com/in/xihao-andy-jiang/). 
 - ⚡ Interests: Badminton :badminton:, Cycling :bike:, and League of Legends :video_game:. 
 
