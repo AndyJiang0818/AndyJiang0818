@@ -2,7 +2,7 @@
 
 ### Hi there :sun_with_face:
 
-I'm Xihao (Andy) Jiang, who is interested in CS, IT, HR, and Marketing. 
+I'm Xihao (Andy) Jiang, interested in Network and Cybersecurity. 
 
 - 💬 Want to know more about me? [Portfolio](https://andyjiang0818.github.io/), [Blog](https://unremovable-mask-man.blogspot.com/).
 - 📫 How to reach me: AndyJobs0818@gmail.com, [LinkedIn](https://www.linkedin.com/in/xihao-andy-jiang/). 
@@ -22,4 +22,4 @@ I'm Xihao (Andy) Jiang, who is interested in CS, IT, HR, and Marketing.
 #### - :card_index_dividers: Git/GitHub, Microsoft Suite, Google Workspace, Google Analytics, Google Search Console, Canva, HubSpot
 
 ### :five: :desktop_computer: Spoken Languages
-#### - :file_cabinet: Mandarin (Native), English (Proficient), Cantonese (Intermediate)
+#### - :file_cabinet: Mandarin (Bilingual), Cantonese (Conversational)
